@@ -1,0 +1,21 @@
+{
+  "Created": "2023-09-21T15:23:53.3208365Z",
+  "LastAccess": "2023-09-21T15:23:53.3208365Z",
+  "Key": "3C6DCC0567CA57C6BA1422D7719D224A723610DA74D7019C6250BFABF41108F1",
+  "Hash": "E1783A917C9C115595F235B23FA948B25BDBC41B96FA663CEBA100FEA8F4783E",
+  "MimeType": "image/jpeg",
+  "Filters": [
+    "grayscale()"
+  ],
+  "LoaderSource": "image/image.jpg?v=T4uZt909PPYrx3iOQmV6o-iC0odYL9QascaMRGzseZ8",
+  "LoaderType": "fetch",
+  "Width": 1024,
+  "Height": 1024,
+  "FileLength": 136491,
+  "Cache": {
+    "NoCache": false,
+    "NoStore": false,
+    "ETag": "1d9ec828d0455d9",
+    "Expires": null
+  }
+}

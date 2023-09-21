@@ -1,0 +1,181 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "imageWizardTest/1.0.0": {
+        "dependencies": {
+          "ImageWizard.Client": "3.7.5",
+          "ImageWizard.Core": "3.7.5",
+          "ImageWizard.ImageSharp": "3.7.5",
+          "ImageWizard.Utils": "3.7.5"
+        },
+        "runtime": {
+          "imageWizardTest.dll": {}
+        }
+      },
+      "AsyncKeyLock/1.0.4": {
+        "runtime": {
+          "lib/net6.0/AsyncKeyLock.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "ImageWizard.Client/3.7.5": {
+        "dependencies": {
+          "ImageWizard.Utils": "3.7.5"
+        },
+        "runtime": {
+          "lib/net6.0/ImageWizard.Client.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.7.5.0"
+          }
+        }
+      },
+      "ImageWizard.Core/3.7.5": {
+        "dependencies": {
+          "AsyncKeyLock": "1.0.4",
+          "ImageWizard.Utils": "3.7.5",
+          "Microsoft.IO.RecyclableMemoryStream": "2.3.2"
+        },
+        "runtime": {
+          "lib/net6.0/ImageWizard.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.7.5.0"
+          }
+        }
+      },
+      "ImageWizard.ImageSharp/3.7.5": {
+        "dependencies": {
+          "ImageWizard.Core": "3.7.5",
+          "SixLabors.ImageSharp": "3.0.1",
+          "SixLabors.ImageSharp.Drawing": "1.0.0-beta14"
+        },
+        "runtime": {
+          "lib/net6.0/ImageWizard.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.7.5.0"
+          }
+        }
+      },
+      "ImageWizard.Utils/3.7.5": {
+        "runtime": {
+          "lib/net6.0/ImageWizard.Utils.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.7.5.0"
+          }
+        }
+      },
+      "Microsoft.IO.RecyclableMemoryStream/2.3.2": {
+        "runtime": {
+          "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "assemblyVersion": "2.3.2.0",
+            "fileVersion": "2.3.2.0"
+          }
+        }
+      },
+      "SixLabors.Fonts/1.0.0-beta16": {
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.Fonts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/3.0.1": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp.Drawing/1.0.0-beta14": {
+        "dependencies": {
+          "SixLabors.Fonts": "1.0.0-beta16",
+          "SixLabors.ImageSharp": "3.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.Drawing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "imageWizardTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsyncKeyLock/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q4M5U7pTMxmFCfO4GKfayia6bBASNzOOuJHC8QscbJ5wIN+cXmQvD5+a3C1YNsI3o2zoM4wUP2jz5wowS71kdA==",
+      "path": "asynckeylock/1.0.4",
+      "hashPath": "asynckeylock.1.0.4.nupkg.sha512"
+    },
+    "ImageWizard.Client/3.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SBXxb6FPHGVXZIT5FToYMLjB7sTJgpGR3huj70g6GbydAYxfaIuK4E/tMo/ayh8uGaU7J0bQS6Eho4eKHrWkmg==",
+      "path": "imagewizard.client/3.7.5",
+      "hashPath": "imagewizard.client.3.7.5.nupkg.sha512"
+    },
+    "ImageWizard.Core/3.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DA9mhTlrxK3HPH2rrrxhHPLc4fICZkH8geZQfG3Lan8HnZZywr1zDi2qwNO9GYc3MLDWjOPh3SX69PSDBz347g==",
+      "path": "imagewizard.core/3.7.5",
+      "hashPath": "imagewizard.core.3.7.5.nupkg.sha512"
+    },
+    "ImageWizard.ImageSharp/3.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9fYMZnOzvUtkPasrWrgKYRKno2IWwuezaeJTVBtzxTnQ/r6B0pFtOnbZx4P9C2gwNa0aHE0+pAeEvxoLrxEVsw==",
+      "path": "imagewizard.imagesharp/3.7.5",
+      "hashPath": "imagewizard.imagesharp.3.7.5.nupkg.sha512"
+    },
+    "ImageWizard.Utils/3.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y1f/P8uKbWVKAhiHOHr22oNhA5BldfK011vd8qJKGKAuzIibZVB66+WytSiGR3yaBZWPkt4wyf9jwCgRqCrmbA==",
+      "path": "imagewizard.utils/3.7.5",
+      "hashPath": "imagewizard.utils.3.7.5.nupkg.sha512"
+    },
+    "Microsoft.IO.RecyclableMemoryStream/2.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Oh1qXXFdJFcHozvb4H6XYLf2W0meZFuG0A+TfapFPj9z5fd4vxiARGEhAaLj/6XWQaMYIv4SH/9Q6H78Hw0E2Q==",
+      "path": "microsoft.io.recyclablememorystream/2.3.2",
+      "hashPath": "microsoft.io.recyclablememorystream.2.3.2.nupkg.sha512"
+    },
+    "SixLabors.Fonts/1.0.0-beta16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nv2wE6mjaoLb2t+fpba3tdGftZJgYEC11uRPyGPFL3gt/WDsHfUVRqtDTUThIMo0RTt0iCckHSPp2Oc+WI3iWg==",
+      "path": "sixlabors.fonts/1.0.0-beta16",
+      "hashPath": "sixlabors.fonts.1.0.0-beta16.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o0v/J6SJwp3RFrzR29beGx0cK7xcMRgOyIuw8ZNLQyNnBhiyL/vIQKn7cfycthcWUPG3XezUjFwBWzkcUUDFbg==",
+      "path": "sixlabors.imagesharp/3.0.1",
+      "hashPath": "sixlabors.imagesharp.3.0.1.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp.Drawing/1.0.0-beta14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2mFbk5s9iu8fWiWyhbMo8VwHst2cw8LACQe36Fn6hlXkUwCEkyGVvdcdtHPQru7ESSnziW47Lt7Jkoay55RBcQ==",
+      "path": "sixlabors.imagesharp.drawing/1.0.0-beta14",
+      "hashPath": "sixlabors.imagesharp.drawing.1.0.0-beta14.nupkg.sha512"
+    }
+  }
+}

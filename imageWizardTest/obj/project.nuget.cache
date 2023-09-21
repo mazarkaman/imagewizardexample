@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKqJih8N9e5KfFTAShtsNUZHVUqEHTHCdQaCjvDRVZ/QExizMY4ARHoKOZzE+CQHAQpFizbGbiM8roaz3RxvVQ==",
+  "success": true,
+  "projectFilePath": "G:\\Projects\\Rider\\BlazorTest\\imageWizardTest\\imageWizardTest\\imageWizardTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadegh\\.nuget\\packages\\asynckeylock\\1.0.4\\asynckeylock.1.0.4.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\imagewizard.client\\3.7.5\\imagewizard.client.3.7.5.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\imagewizard.core\\3.7.5\\imagewizard.core.3.7.5.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\imagewizard.imagesharp\\3.7.5\\imagewizard.imagesharp.3.7.5.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\imagewizard.utils\\3.7.5\\imagewizard.utils.3.7.5.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.3.2\\microsoft.io.recyclablememorystream.2.3.2.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta16\\sixlabors.fonts.1.0.0-beta16.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "C:\\Users\\Sadegh\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0-beta14\\sixlabors.imagesharp.drawing.1.0.0-beta14.nupkg.sha512"
+  ],
+  "logs": []
+}

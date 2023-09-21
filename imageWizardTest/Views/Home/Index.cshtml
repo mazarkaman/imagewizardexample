@@ -1,0 +1,17 @@
+﻿@using ImageWizard.Client
+@using ImageWizard.Utils
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-6">
+        <span>FromFile</span>
+        <img class="col-12" src="@Url.ImageWizard().FetchLocalFile("image/image.jpg").AsImage().Grayscale().BuildUrl()" alt=""/>
+    </div>
+    <div class="col-6">
+        <span>FromURL</span>
+        <img class="col-12" src="@Url.ImageWizard().Fetch("picsum.photos/300").AsImage().Grayscale().BuildUrl()" alt=""/>
+    </div>
+</div>
+
